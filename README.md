@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wolfnight29! 🐺</h1>
 <div align="center">
   <a href="https://github.com/wolfnight29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wolfnight29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfnight29&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wolfnight29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfnight29&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <br>
 <div align ="center"> 
